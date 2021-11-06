@@ -9,9 +9,7 @@ This project focuses on acquiring a better understanding of visitor behaviour pa
 ---
 ### Thank you to the participants
 
-Thank you for partaking in this study. You could contact us with further questions at ...
+Thank you for partaking in this study. You could contact us with further questions at omabdulh@uwaterloo.ca
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
