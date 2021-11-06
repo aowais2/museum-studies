@@ -10,7 +10,11 @@ It is important to note that the solutions used in this project don't use face r
 ---
 ### Thank you to the participants
 
-Thank you for partaking in this study. You could contact us with further questions at omabdulh@uwaterloo.ca
+Thank you for participating in this experiment. The collected data will contribute to a better understanding of the appropriate direction of future development in the museum studies.
 
+
+All captured data will be de-identified and stored on a secure password-protected lab server with access only to the researchers. Once all the data is analyzed for this project, we plan on sharing general statistical information with the research community through seminars, conferences, presentations, and journal articles. If you are interested in receiving more information regarding the results of this study, or would like a summary of the results, please contact us at omabdulh@uwaterloo.ca, and when the study is completed, anticipated by the end of summer 2022, we will send you the information. In the meantime, if you have any questions about the study, please do not hesitate to contact us by email.
+
+This study has been reviewed and received ethics clearance through a University of Waterloo Research Ethics Committee (ORE#43272). If you have questions for the Committee contact the Office of Research Ethics, at 1-519-888-4567 ext. 36005 or ore-ceo@uwaterloo.ca. For all other questions contact us by email at omabdulh@uwaterloo.ca
 
 ---
