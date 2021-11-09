@@ -19,6 +19,6 @@ All captured data will be de-identified and stored on a secure password-protecte
 This study has been reviewed and received ethics clearance through a University of Waterloo Research Ethics Committee (ORE#43272). If you have questions for the Committee contact the Office of Research Ethics, at 1-519-888-4567 ext. 36005 or ore-ceo@uwaterloo.ca. For all other questions contact us by email at omabdulh@uwaterloo.ca
 
 ---
-### [Information and Consent Declaration](/sample_page)
+### [Information and Consent Declaration](/sample_page.md)
 
 ---
