@@ -1,6 +1,9 @@
-## This can be your internal website page / project page
+## Information and Consent Declaration
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Principal Investigator:** Professor Steven Bednarski St Jerome's University, University of Waterloo, Canada Phone: 519-884-8110 x28276 Email: steven.bednarski@uwaterloo.ca
+**Co-Investigator:** Dr. Caley McCarthy St Jerome's University, University of Waterloo, Canada Email: caley.mccarthy@uwaterloo.ca
+**Co-Investigator:** Owais Hamid Research Fellow, University of Waterloo, Canada Email: omabdulh@uwaterloo.ca 
+ 
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
