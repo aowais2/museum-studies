@@ -1,10 +1,22 @@
 ## Information and Consent Declaration
 
-**Principal Investigator:** Professor Steven Bednarski St Jerome's University, University of Waterloo, Canada Phone: 519-884-8110 x28276 Email: steven.bednarski@uwaterloo.ca
+**Principal Investigator:** Professor Steven Bednarski 
 
-**Co-Investigator:** Dr. Caley McCarthy St Jerome's University, University of Waterloo, Canada Email: caley.mccarthy@uwaterloo.ca
+St Jerome's University, University of Waterloo, Canada 
 
-**Co-Investigator:** Owais Hamid Research Fellow, University of Waterloo, Canada Email: omabdulh@uwaterloo.ca 
+Phone: 519-884-8110 x28276 Email: steven.bednarski@uwaterloo.ca
+
+**Co-Investigator:** Dr. Caley McCarthy 
+
+St Jerome's University, University of Waterloo, Canada 
+
+Email: caley.mccarthy@uwaterloo.ca
+
+**Co-Investigator:** Owais Hamid 
+
+Research Fellow, University of Waterloo, Canada 
+
+Email: omabdulh@uwaterloo.ca 
  
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
