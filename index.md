@@ -1,5 +1,3 @@
----
-
 ### Overview
 
 Researchers at the University of Waterloo have partnered with the Museum to gain a better understanding of visitor behaviour patterns in exhibitions through museum settings. In particular, this study aims to analyze the following aspects of museum visitor interactions:
