@@ -55,6 +55,3 @@ Please note that consent to participate in this research study is implied by ent
 
 ---
 
-### [Information and Consent Declaration](/museum-studies/sample_page)
-
----
